@@ -27,3 +27,18 @@ header{
     border: 10px;
     border-radius: 10px;
 }
+
+.nav{
+    text-align: left;
+    font-size: 13;
+    margin-left: 700px;
+    padding-top: 150px;
+    margin-bottom: 150px;
+}
+nav {padding-bottom: 50px;
+    background-image: url('/Projects/Assignment-1/Banner-2.png');
+    background-size: 30%;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: space-between;
+}
