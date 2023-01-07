@@ -19,7 +19,7 @@ div li{
 }
 header{
     padding-bottom: 50px;
-    background-image: url('/Projects/Assignment-1/banner/Banner.png');
+    background-image: url('./banner/Banner.png');
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -38,13 +38,13 @@ header{
 /*Banner-2*/
 .nav{
     text-align: left;
-    font-size: 13;
+    font-size: 18;
     margin-left: 700px;
     padding-top: 150px;
     margin-bottom: 150px;
 }
 nav {padding-bottom: 50px;
-    background-image: url('/Projects/Assignment-1/Banner-2.png');
+    background-image: url('./Banner-2.png');
     background-size: 30%;
     display: flex;
     background-repeat: no-repeat;
@@ -73,7 +73,7 @@ ul li{
 /*Task-4*/
 .image{
     text-align: center;
-    background-image: url('/Projects/Assignment-1/watch.png');
+    background-image: url('./watch.png');
     background-size: 70%;
     background-position-x: center;
     background-repeat: no-repeat;
