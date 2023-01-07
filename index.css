@@ -2,8 +2,12 @@
     font-family: sans-serif;
     font-style: italic;
 }
+h1{
+    color: brown;
+    padding-top: 20px;
+}
 .header{
-    padding-top: 170px;
+    padding-top: 100px;
     margin-left: 900px;
     display: flex;
     text-align: right;
@@ -28,6 +32,8 @@ header{
     border-radius: 10px;
 }
 
+
+/*Banner-2*/
 .nav{
     text-align: left;
     font-size: 13;
@@ -41,4 +47,21 @@ nav {padding-bottom: 50px;
     display: flex;
     background-repeat: no-repeat;
     justify-content: space-between;
+}
+
+
+/*Task-3*/
+ul li{
+    list-style: none;
+}
+.content{
+    justify-content: space-between;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.x{
+    font-size: medium;
+    font-weight: 300;
 }
