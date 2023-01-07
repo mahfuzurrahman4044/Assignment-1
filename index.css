@@ -1,9 +1,9 @@
 *{
-    font-family: sans-serif;
+    font-family: serif;
     font-style: italic;
 }
 h1{
-    color: brown;
+    color: palevioletred;
     padding-top: 20px;
 }
 .header{
@@ -24,9 +24,11 @@ header{
     background-repeat: no-repeat;
 }
 .btn-1{
-    font-size: 40;
+    padding: 15px;
+    color: white;
+    font-size: 15px;
     background-color: orangered;
-    margin-left: 1120px;
+    margin-left: 1200px;
     margin-bottom: 80px;
     border: 10px;
     border-radius: 10px;
@@ -56,12 +58,32 @@ ul li{
 }
 .content{
     justify-content: space-between;
-    font-size: xx-large;
+    font-size: 30px;
     font-weight: bolder;
     margin-left: 150px;
     margin-right: 150px;
+    padding-bottom: 40px;
 }
 .x{
-    font-size: medium;
-    font-weight: 300;
+    font-size: 15px;
+    font-weight: 80px;
+}
+
+
+/*Task-4*/
+.image{
+    text-align: center;
+    background-image: url('/Projects/Assignment-1/watch.png');
+    background-size: 70%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}
+
+
+/*Final-Task*/
+.final-task{
+    background-color: black;
+}
+p{
+    color: white;
 }
