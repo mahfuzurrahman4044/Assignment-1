@@ -8,8 +8,7 @@ h1{
 }
 .header{
     padding-top: 100px;
-    margin-left: 900px;
-    display: flex;
+    padding-right: 193px;
     text-align: right;
     font-size: 55;
     font-weight: bolder;
@@ -19,7 +18,7 @@ div li{
 }
 header{
     padding-bottom: 50px;
-    background-image: url('./banner/Banner.png');
+    background-image: url('./new-year-new-me/images/banner/banner1.png');
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -28,39 +27,44 @@ header{
     color: white;
     font-size: 15px;
     background-color: orangered;
-    margin-left: 1200px;
-    margin-bottom: 80px;
+    margin-left: 1210px;
     border: 10px;
+    margin-top: 25px;
     border-radius: 10px;
+    margin-bottom: 150px;
 }
 
 
 /*Banner-2*/
+
 .nav{
     text-align: left;
     font-size: 18;
-    margin-left: 450px;
+    margin-left: 650px;
     padding-top: 150px;
     margin-bottom: 150px;
+    justify-content: space-between;
 }
-nav {padding-bottom: 50px;
-    background-image: url('./Banner-2.png');
+nav {
+    background-image: url('./new-year-new-me/images/person.png');
+    padding-top: 50px;
     background-size: 30%;
+    position: relative;
+    left: 206px;
     display: flex;
     background-repeat: no-repeat;
-    justify-content: space-between;
 }
 
 
 /*Task-3*/
+
 ul li{
     list-style: none;
 }
 .content{
-    justify-content: space-between;
     font-size: 30px;
     font-weight: bolder;
-    margin-left: 150px;
+    margin-left: 110px;
     margin-right: 150px;
     padding-bottom: 40px;
 }
@@ -71,9 +75,10 @@ ul li{
 
 
 /*Task-4*/
+
 .image{
     text-align: center;
-    background-image: url('./watch.png');
+    background-image: url('./new-year-new-me/images/watch.png');
     background-size: 70%;
     background-position-x: center;
     background-repeat: no-repeat;
@@ -81,8 +86,9 @@ ul li{
 
 
 /*Final-Task*/
+
 .final-task{
-    background-color: black;
+    background-color:darkgrey;
 }
 p{
     color: white;
